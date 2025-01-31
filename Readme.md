@@ -23,4 +23,4 @@ Para iniciar un EC2 el primer paso es *iniciar una instancia*, para esto es impo
 Tambien es fundamental conocer que sistema operativo y que especificaciones de memoria se necesitan para las instancias EC2 de AWS. Luego de todo esto se *conecta con la instancia* para esto AWS genera claves de acceso por terminal, asi un tecnico puede manejar remotamente la instancia EC2.
 
 #### Tipos de instancia EC2
-
+Existen tipos de instancias EC2 a fin de especializarse para un trabajo en especifico, asi como cuando una cafeteria divide roles de trabajo entre un empleado, el encargado de suministros, etc. De la misma manera existe una diferencia entre instancias de EC2. Diferentes tipos de aplicaciones pueden ejecutarse mejor en distintas instancias EC2, unas optimizadas para memoria, otras para computacion o en general con balance de ambas.
