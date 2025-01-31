@@ -24,3 +24,12 @@ Tambien es fundamental conocer que sistema operativo y que especificaciones de m
 
 #### Tipos de instancia EC2
 Existen tipos de instancias EC2 a fin de especializarse para un trabajo en especifico, asi como cuando una cafeteria divide roles de trabajo entre un empleado, el encargado de suministros, etc. De la misma manera existe una diferencia entre instancias de EC2. Diferentes tipos de aplicaciones pueden ejecutarse mejor en distintas instancias EC2, unas optimizadas para memoria, otras para computacion o en general con balance de ambas.
+En AWS esto se representa en los nombres de las instancias de EC2, por ejemplo.
+```
+C5.xlarge, C4.micro, R5.micro, T3.micro
+         C5               .            xlarge
+Familia y generacion      .    Tamaño de procesamiento
+C -> Es la familia de computacion optimizada
+R -> Es la familia de optimizacion de memoria
+T -> Es equilibrada de uso general
+```
