@@ -37,5 +37,5 @@ T -> Es equilibrada de uso general
 EC2 es una tecnologia que genera costos, estos costos se ven reducidos en base a el tipo de precio de instancia estas son:
 * Bajo demanda: Genera gastos den la demanda y el tiempo de utilizacion.
 * Spot: Son instancias en una subasta, donde la persona que mas pague y necesite esta instancia tendra prioridad por sobre otras, permitiendo que se genere un mercado y subastas de instancias.
-* Reservado: Se genera un contrato con AWS de 1 a 3 años donde especifica que se facturará por debajo de un precio acordado, ofreciendo descuento en el uso de una EC2
+* Reservado: Se genera un contrato con AWS de 1 o 3 años donde especifica que se facturará por debajo de un precio acordado, ofreciendo descuento en el uso de una EC2
 * Compute savings plans: Es un contrato donde consigues ofertas si te comprometes a generar costos menores a los establecidos.
