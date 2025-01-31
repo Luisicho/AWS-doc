@@ -32,4 +32,5 @@ Familia y generacion      .    Tamaño de procesamiento
 C -> Es la familia de computacion optimizada
 R -> Es la familia de optimizacion de memoria
 T -> Es equilibrada de uso general
+
 ```
